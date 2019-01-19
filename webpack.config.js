@@ -21,7 +21,7 @@ module.exports = {
     resolve: {
         alias: {
             crypto: path.resolve(__dirname, 'src/crypto.js'),
-            eventsource: 'react-native-event-source'
+            eventsource: 'react-native-event-source/EventSource'
         }
     },
 

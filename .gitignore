@@ -1,7 +1,6 @@
 .env
 node_modules
 npm-debug.log
-stellar-sdk.js
 .cache/
 .DS_Store
 yarn-error.log

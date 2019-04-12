@@ -6188,7 +6188,7 @@ stellar-base@^0.13.0:
 
 "stellar-sdk@https://github.com/mikeyrf/js-stellar-sdk.git":
   version "0.15.0"
-  resolved "https://github.com/mikeyrf/js-stellar-sdk.git#972cb027e19ae58f7cfc350b8804fe069adce26e"
+  resolved "https://github.com/mikeyrf/js-stellar-sdk.git#1453d300555d27890ed8d0b568e9c0fc96f7e7c2"
   dependencies:
     axios "^0.18.0"
     bignumber.js "^4.0.0"
